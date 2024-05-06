@@ -37,5 +37,5 @@ Feel free to fork this repository and contribute your own enhancements or bug fi
 
 **Happy Coding!**
 
-!["Design"](images/image1.png)
-
+!["registration_form_design.png"](images/image1.png)
+!["password_validation.png"](images/image2.png)
