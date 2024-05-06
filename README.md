@@ -17,8 +17,10 @@ This project builds upon the Coursera React Advanced by Meta; registration form,
 **Getting Started:**
 
 1. **Clone or Download the Repository:** Access this project's code through your preferred method (e.g., Git clone or download).
-2. **Run the Application:** Open your terminal and navigate to the project's root directory. Execute `npm start` to initiate the development server.
+2. **Install Dependencies:** Open your terminal or command prompt and navigate to the project's root directory. Run the `npm install` command to install the necessary dependencies
+3. **Run the Application:** Open your terminal and navigate to the project's root directory. Execute `npm start` to initiate the development server
 
+   
 **Enjoy!**
 
 The application should launch in your default browser, ready for use with the enhanced features.
